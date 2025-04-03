@@ -1,1 +1,3 @@
 # thelastcheckp
+
+during this gomycode software devoloper bootcamp i learned alot of things, i learned more about algorithm which made it more clear for me to work with it in the future,i learned more about html and css and frameworks,i learned what is javascript and how to code with it to create dynamic website using dom,i learned what are frameworks, what is a library, before this bootcamp i had no idea what is backend now i know that a backend is basically a server that we use to send quests and get responses from our database..i learned react and how to use it hooks to manipulate my html elements
